@@ -99,5 +99,9 @@ void loop()
 
 Output of the simulation :
 
-[My image](username.github.com/repository/img/image.jpg)
 
+
+![Surprising Blad](https://user-images.githubusercontent.com/123259278/229290601-0a18dc47-9352-4fa5-84c7-a3343c984a2a.png)
+
+## RESULT:
+Thus the simulation output on interfacing digital input sensor with arduino has been completed in tinkercad.
