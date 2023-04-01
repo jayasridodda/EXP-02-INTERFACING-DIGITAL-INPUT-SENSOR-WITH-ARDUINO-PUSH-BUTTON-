@@ -105,5 +105,6 @@ Output of the simulation :
 
 
 
+
 ## RESULT:
 Thus the simulation output on interfacing digital input sensor with arduino has been completed in tinkercad.
