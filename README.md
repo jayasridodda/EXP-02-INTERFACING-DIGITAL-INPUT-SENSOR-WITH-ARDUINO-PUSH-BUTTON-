@@ -99,7 +99,8 @@ void loop()
 
 Output of the simulation :
 
-![Uploading EX 1.png…]()
+
+![EX 1](https://user-images.githubusercontent.com/123259278/229503750-392337f9-d301-48e4-b66f-c0c0f2b23b93.png)
 
 
 
