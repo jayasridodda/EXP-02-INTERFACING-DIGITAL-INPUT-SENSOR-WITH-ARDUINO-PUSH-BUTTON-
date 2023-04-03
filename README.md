@@ -100,7 +100,7 @@ void loop()
 Output of the simulation :
 
 
-![EX 1](https://user-images.githubusercontent.com/123259278/229503750-392337f9-d301-48e4-b66f-c0c0f2b23b93.png)
+![EXP 02 ROBOTICS SS](https://user-images.githubusercontent.com/123259278/229504027-dba054b2-7aac-4c56-884d-72ccb5e326f1.png)
 
 
 
