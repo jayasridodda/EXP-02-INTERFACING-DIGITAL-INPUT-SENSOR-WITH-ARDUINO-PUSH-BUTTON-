@@ -100,7 +100,8 @@ void loop()
 ##Output:
 ##Before Stimulation:
 
-![menchanicsss](https://user-images.githubusercontent.com/123259278/233994941-267ae8fe-adc8-415f-9085-6f7821c744dc.jpg)
+
+![t725](https://user-images.githubusercontent.com/123259278/233997922-ea594484-af37-43b7-ab1f-bdf32d8b6040.png)
 
 
 ##After Stimulation:
