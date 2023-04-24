@@ -97,7 +97,13 @@ void loop()
 
 
 
-Output of the simulation :
+##Output:
+##Before Stimulation:
+
+![menchanicsss](https://user-images.githubusercontent.com/123259278/233994941-267ae8fe-adc8-415f-9085-6f7821c744dc.jpg)
+
+
+##After Stimulation:
 
 ![EX 1](https://user-images.githubusercontent.com/123259278/229505427-d2509a13-9881-4ec5-947f-7846f6396f68.png)
 
